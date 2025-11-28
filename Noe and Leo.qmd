@@ -1,0 +1,12 @@
+---
+title: "Data Management Noe and Leo"
+author: "Noé Mansuy Léo-Paul Garelli"
+format: html
+---
+
+## Let's get started
+fegf
+```{r}
+x <- 3
+```
+ezgzge
